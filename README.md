@@ -40,5 +40,7 @@ Checkout: Review your order summary and proceed to checkout (static demo).
 
 <img width="1440" alt="Screenshot 2025-05-04 at 10 00 56 AM" src="https://github.com/user-attachments/assets/d5d561e5-62a1-4d53-ae56-5c0bbed73f54" />
 
+<img width="1440" alt="Screenshot 2025-05-04 at 10 02 39 AM" src="https://github.com/user-attachments/assets/bbb5236f-9c3c-4ac2-b106-4f76d39b672a" />
+
 
 
