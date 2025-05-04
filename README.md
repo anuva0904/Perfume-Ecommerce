@@ -30,3 +30,15 @@ Add to Cart: Click the "Add to Cart" button on any product.
 View Cart: Access the cart page to see selected items, update quantities, or remove products.
 
 Checkout: Review your order summary and proceed to checkout (static demo).
+
+
+<img width="1440" alt="Screenshot 2025-05-04 at 9 58 44 AM" src="https://github.com/user-attachments/assets/0c1c195a-aaff-4e35-b0a9-224f9fdeb2df" />
+
+<img width="1440" alt="Screenshot 2025-05-04 at 9 59 10 AM" src="https://github.com/user-attachments/assets/bbec9f24-9753-4c4f-931b-1ca5d5342949" />
+
+<img width="1440" alt="Screenshot 2025-05-04 at 9 59 46 AM" src="https://github.com/user-attachments/assets/d1b3f2bb-0d16-4ed2-979f-4249fe5f6f54" />
+
+<img width="1440" alt="Screenshot 2025-05-04 at 10 00 56 AM" src="https://github.com/user-attachments/assets/d5d561e5-62a1-4d53-ae56-5c0bbed73f54" />
+
+
+
